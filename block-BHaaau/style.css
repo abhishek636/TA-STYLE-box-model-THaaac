@@ -56,7 +56,7 @@ h1 {
 hr {
     width: 600px;
     text-align: center;
-    border: dotted black 1px;
+    border: dashed black ;
 }
 .child2 {
     width: 200px;
@@ -67,7 +67,7 @@ hr {
 background-color: #ADD8E6;
 display: inline-block;
 padding: 10px;
-border : solid 1px black
+border : solid 2px black
 }
 .main-box {
     background-color: #ED7F80;
